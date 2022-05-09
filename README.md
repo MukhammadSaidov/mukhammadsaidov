@@ -1,5 +1,3 @@
-[![Header](https://github.com/MukhammadSaidov/mukhammadsaidov/blob/main/assets/IMG_0868.JPG)]()
-
 ### Start-Up Projects:
 
 [Doscouting](https://www.doscouting.com)
