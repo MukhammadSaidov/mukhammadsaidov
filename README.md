@@ -2,8 +2,8 @@
 
 ### Languages and Tools:
 
-![Html]
-![Css]
+![Html]()
+![Css]()
 ![Sass]
 ![Gulp]
 ![JavaScript]
@@ -19,9 +19,9 @@
 
 ### Start-Up Projects:
 
-[[Doscouting]](https://www.doscouting.com)
-[[Careertail]](https://www.careertail.io)
-[[Moocco]](https://www.moocco.com)
+[Doscouting](https://www.doscouting.com)
+[Careertail](https://www.careertail.io)
+[Moocco](https://www.moocco.com)
 
 ### Follow Me:
 
