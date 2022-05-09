@@ -31,15 +31,7 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://m.facebook.com/profile.php?ref=bookmarks)
 
 </br>
-
-<details>
-<summary>
-  More stuff about me
-</summary>
-
-<br >
-
-#### Github Stats
+</br>
 
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=mukhammadsaidov&count_private=true&theme=tokyonight&hide=contribs,prs)
 
