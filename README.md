@@ -25,10 +25,14 @@
 </br>
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/MukhammadSaidov)
+[![TelegramBot](https://img.shields.io/badge/-TelegramBot-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/saidovpro_bot)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/saidovpro_)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/mukhammad-saidov-11b77420a/)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/saidov_proo)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://m.facebook.com/profile.php?ref=bookmarks)
+[![Steam](https://img.shields.io/badge/-Steam-090909?style=for-the-badge&logo=steam&logoColor=#007BB6)](https://steamcommunity.com/profiles/76561199074232674/)
+[![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord&logoColor=#007BB6)](https://discord.gg/w2CZmdKYFM)
+[![Clubhouse](https://img.shields.io/badge/-Clubhouse-090909?style=for-the-badge&logo=Clubhouse&logoColor=#007BB6)](https://www.clubhouse.com/@saidovpro)
 
 </br>
 </br>
