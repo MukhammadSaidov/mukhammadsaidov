@@ -1,22 +1,5 @@
 [![Header](https://github.com/MukhammadSaidov/mukhammadsaidov/blob/main/assets/IMG_0868.JPG)]()
 
-### Languages and Tools:
-
-![Html]()
-![Css]()
-![Sass]
-![Gulp]
-![JavaScript]
-![Jquery]
-![React.js]
-![Next.js]
-![Vite.js]
-![Node.js]
-![Express.js]
-![TypeScript]
-![Firebase]
-![MongoDB]
-
 ### Start-Up Projects:
 
 [Doscouting](https://www.doscouting.com)
