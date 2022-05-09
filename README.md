@@ -1,24 +1,27 @@
 [![Header](https://github.com/MukhammadSaidov/mukhammadsaidov/blob/main/assets/IMG_0868.JPG)]()
 
-About me
-
-Latest
-
 ### Languages and Tools:
 
-![React.js](https://img.shields.io/badge/-Reactjs-090909?style=for-the-badge&logo=reactjs&logoColor=47C5FB)
-![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
-![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=tensorflow&logoColor=F88C00)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![Html]
+![Css]
+![Sass]
+![Gulp]
+![JavaScript]
+![Jquery]
+![React.js]
+![Next.js]
+![Vite.js]
+![Node.js]
+![Express.js]
+![TypeScript]
+![Firebase]
+![MongoDB]
 
 ### Start-Up Projects:
 
-[![Doscouting]](https://www.doscouting.com)
-[![Careertail]](https://www.careertail.io)
-[![Moocco]](https://www.moocco.com)
+[[Doscouting]](https://www.doscouting.com)
+[[Careertail]](https://www.careertail.io)
+[[Moocco]](https://www.moocco.com)
 
 ### Follow Me:
 
