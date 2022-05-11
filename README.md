@@ -46,5 +46,5 @@
 [htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
 [javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukhammadsaidov&" alt="saidovpro" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukhammadsaidov&theme=dark" alt="saidovpro" /></p>
 
